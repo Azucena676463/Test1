@@ -1,0 +1,17 @@
+h1{
+  color: turquoise;
+  font-size:60px;
+  font-style: italic;
+}
+#only{
+  color: pink;
+}
+#test{
+  height:100Spx;
+  width:800px;
+}
+p{
+  color: blue;
+  font-style: oblique;
+  font-size: 100px
+}
